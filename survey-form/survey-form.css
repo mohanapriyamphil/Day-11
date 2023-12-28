@@ -1,0 +1,28 @@
+h3{
+    margin: 0;
+}
+#container{
+    display: block;
+    width: 100%vw;
+    height: 100%vh;
+}
+.email{
+    display:flex;
+}
+.submit{
+    display: flex;
+    margin-top: 10px;
+}
+.row{
+    margin: 20px;
+}
+
+.stars i{
+    display: inline-flexbox;
+    color: orange;
+    font-size: 20px;
+    cursor: pointer;
+}
+/* .table{
+    border: 1px;
+} */
